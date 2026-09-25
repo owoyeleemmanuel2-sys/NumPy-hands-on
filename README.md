@@ -15,7 +15,10 @@ This repository contains my hands-on practice transitioning from Python lists to
 - Covers: Temperature analysis, Sales comparison, Lagos vs Abuja weather
 
 ### Example Outputs
-- 
+- <img width="820" height="452" alt="Screenshot 3" src="https://github.com/user-attachments/assets/aa0619ac-a832-4817-8cb3-33508a039d8c" />
+<img width="804" height="455" alt="Screenshot 2" src="https://github.com/user-attachments/assets/64be1c7b-96c3-4d40-9435-7276c9e4df1e" />
+<img width="799" height="343" alt="Screenshot 1" src="https://github.com/user-attachments/assets/e1e8a859-2349-4777-a96b-5d85f278867f" />
+
 
 ### Key Findings (Mini Project)
 1. Day 6 was hottest at 32.5°C, 2.5°C above target
