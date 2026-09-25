@@ -1,6 +1,9 @@
 # NumPy-hands-on
 NumPy Hands-On Practice - From Python Lists to Numerical Computing
 
+### Authur
+Emmanuel Babatomiwa Owoyele Junior Python Developer | (https://www.linkedin.com/in/emmanuel-owoyele-11448b3bb/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BC5KaFzRORVivHBiE1lFa%2FQ%3D%3D)
+
 ### About This Project
 This repository contains my hands-on practice transitioning from Python lists to NumPy arrays for numerical computing. It covers array creation, dtype, dimensions, and element-wise operations.
 
@@ -29,6 +32,3 @@ This repository contains my hands-on practice transitioning from Python lists to
 ```python
 import numpy as np
 # Open notebook in Jupyter and run all cells
-
-### Authur
-Emmanuel Babatomiwa Owoyele Junior Python Developer | (https://www.linkedin.com/in/emmanuel-owoyele-11448b3bb/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BC5KaFzRORVivHBiE1lFa%2FQ%3D%3D)
