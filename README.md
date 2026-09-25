@@ -14,6 +14,9 @@ This repository contains my hands-on practice transitioning from Python lists to
 - `numpy_hands_on_emmanuel.ipynb` - Full notebook with 3 Hands-Ons + Mini Project
 - Covers: Temperature analysis, Sales comparison, Lagos vs Abuja weather
 
+### Example Outputs
+- 
+
 ### Key Findings (Mini Project)
 1. Day 6 was hottest at 32.5°C, 2.5°C above target
 2. 5 out of 7 days were above target - warmer week
